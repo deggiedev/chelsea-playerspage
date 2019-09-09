@@ -48,4 +48,3 @@ gem "active_model_serializers", "~> 0.10.10"
 
 # api call gem
 gem 'rest-client'
-gem 'unirest', '~> 1.1', '>= 1.1.2'
